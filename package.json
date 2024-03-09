@@ -1,0 +1,14 @@
+{
+  "name": "awesome-bookmarklets",
+  "version": "1.0.0",
+  "description": "Repository gathering my personal bookmarklets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TixieSalander/awesome-bookmarklets.git"
+  },
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/TixieSalander/awesome-bookmarklets/issues"
+  },
+  "homepage": "https://github.com/TixieSalander/awesome-bookmarklets#readme"
+}
